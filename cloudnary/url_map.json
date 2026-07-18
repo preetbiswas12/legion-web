@@ -1,0 +1,341 @@
+{
+  "image_01.jpg": {
+    "url": "https://res.cloudinary.com/dhnkuonev/image/upload/v1702296579/ex0vix6wbrx7g5hlot2w.jpg",
+    "source": [
+      "src\\config\\gallery\\parallax.ts"
+    ]
+  },
+  "image_02.jpg": {
+    "url": "https://res.cloudinary.com/dhnkuonev/image/upload/v1702296987/uveuklce3owmbgbymozg.jpg",
+    "source": [
+      "src\\config\\gallery\\parallax.ts"
+    ]
+  },
+  "image_03.svg": {
+    "url": "https://res.cloudinary.com/dhv234qct/image/upload/v1736696729/xl8xmihmz1vwvgmqwp8v.svg",
+    "source": [
+      "src\\config\\sponsors\\index.ts"
+    ]
+  },
+  "image_04.png": {
+    "url": "https://res.cloudinary.com/dhv234qct/image/upload/v1736925948/hn6/6.0%20spons/b7wlqvbafzftnxylapdk.png",
+    "source": [
+      "src\\config\\sponsors\\index.ts",
+      "src\\config\\sponsors\\index.ts"
+    ]
+  },
+  "image_05.png": {
+    "url": "https://res.cloudinary.com/dhv234qct/image/upload/v1736925948/hn6/6.0%20spons/x8c696hj5wqhumhqcwol.png",
+    "source": [
+      "src\\config\\sponsors\\index.ts",
+      "src\\config\\sponsors\\index.ts",
+      "src\\config\\sponsors\\index.ts"
+    ]
+  },
+  "image_06.png": {
+    "url": "https://res.cloudinary.com/dhv234qct/image/upload/v1736925948/hn6/6.0%20spons/xd10ghvhzdktiqwdalxj.png",
+    "source": [
+      "src\\config\\sponsors\\index.ts",
+      "src\\config\\sponsors\\index.ts"
+    ]
+  },
+  "image_07.svg": {
+    "url": "https://res.cloudinary.com/dhv234qct/image/upload/v1736927287/hn6/5.0%20spons/mafspvn18szzvetq0z8f.svg",
+    "source": [
+      "src\\config\\sponsors\\index.ts"
+    ]
+  },
+  "image_08.svg": {
+    "url": "https://res.cloudinary.com/dhv234qct/image/upload/v1736927969/hn6/5.0%20spons/liznydouhu8jzq15vwsh.svg",
+    "source": [
+      "src\\config\\sponsors\\index.ts"
+    ]
+  },
+  "image_09.svg": {
+    "url": "https://res.cloudinary.com/dhv234qct/image/upload/v1736928714/hn6/5.0%20spons/fwwfbjishlppoqz8hwom.svg",
+    "source": [
+      "src\\config\\sponsors\\index.ts"
+    ]
+  },
+  "image_10.svg": {
+    "url": "https://res.cloudinary.com/dhv234qct/image/upload/v1736928875/hn6/5.0%20spons/ziojtxkb8h6xnreoxjl3.svg",
+    "source": [
+      "src\\config\\sponsors\\index.ts"
+    ]
+  },
+  "image_11.svg": {
+    "url": "https://res.cloudinary.com/dhv234qct/image/upload/v1736929021/hn6/5.0%20spons/yqsbzircho7e8xtvqzge.svg",
+    "source": [
+      "src\\config\\sponsors\\index.ts"
+    ]
+  },
+  "image_12.svg": {
+    "url": "https://res.cloudinary.com/dhv234qct/image/upload/v1736929395/hn6/5.0%20spons/ojcnqmjzujoqb2e9llxt.svg",
+    "source": [
+      "src\\config\\sponsors\\index.ts"
+    ]
+  },
+  "image_13.svg": {
+    "url": "https://res.cloudinary.com/dhv234qct/image/upload/v1736929558/hn6/5.0%20spons/bznbfs0h2shgnzeyzbq2.svg",
+    "source": [
+      "src\\config\\sponsors\\index.ts"
+    ]
+  },
+  "image_14.svg": {
+    "url": "https://res.cloudinary.com/dhv234qct/image/upload/v1736929691/hn6/5.0%20spons/luvt4oxj6ejpl4wxsk9m.svg",
+    "source": [
+      "src\\config\\sponsors\\index.ts"
+    ]
+  },
+  "image_15.svg": {
+    "url": "https://res.cloudinary.com/dhv234qct/image/upload/v1736930246/hn6/5.0%20spons/qqnlywwdz5l90z66mn3z.svg",
+    "source": [
+      "src\\config\\sponsors\\index.ts"
+    ]
+  },
+  "image_16.png": {
+    "url": "https://res.cloudinary.com/dkpdi1wek/image/upload/v1708786350/download__2_-removebg-preview_1_dscm20.png",
+    "source": [
+      "src\\config\\sponsors\\index.ts"
+    ]
+  },
+  "image_17.png": {
+    "url": "https://res.cloudinary.com/dscnitrourkela/image/upload/v1752326964/hacknitr/zblorl5fuiaulxica9cu.png",
+    "source": [
+      "src\\config\\seo\\index.ts"
+    ]
+  },
+  "image_18.png": {
+    "url": "https://res.cloudinary.com/dscnitrourkela/image/upload/v1754225393/hacknitr/kih0gsyskoslbgd9frvz.png",
+    "source": [
+      "src\\config\\marginals\\index.ts"
+    ]
+  },
+  "image_19.png": {
+    "url": "https://res.cloudinary.com/dscnitrourkela/image/upload/v1755437147/hacknitr/si7ci7j5xowo2ytkj54q.png",
+    "source": [
+      "src\\config\\marginals\\index.ts",
+      "src\\config\\marginals\\index.ts",
+      "src\\config\\marginals\\index.ts",
+      "src\\config\\marginals\\index.ts"
+    ]
+  },
+  "image_20.png": {
+    "url": "https://res.cloudinary.com/dscnitrourkela/image/upload/v1755512123/project-huckleberry/rk5nft6tq9cxo4jqlbfb.png",
+    "source": [
+      "src\\config\\testimonials\\index.ts"
+    ]
+  },
+  "image_21.png": {
+    "url": "https://res.cloudinary.com/dscnitrourkela/image/upload/v1755528485/project-huckleberry/jyp5u6aj1o0zyoacdpmj.png",
+    "source": [
+      "src\\config\\testimonials\\index.ts"
+    ]
+  },
+  "image_22.png": {
+    "url": "https://res.cloudinary.com/dscnitrourkela/image/upload/v1755710453/hacknitr/ljpzd4qbjttmkqrz3se0.png",
+    "source": [
+      "src\\config\\marginals\\index.ts"
+    ]
+  },
+  "image_23.png": {
+    "url": "https://res.cloudinary.com/dscnitrourkela/image/upload/v1755710453/hacknitr/xspkjzkj2uhjgiypnefh.png",
+    "source": [
+      "src\\config\\marginals\\index.ts"
+    ]
+  },
+  "image_24.png": {
+    "url": "https://res.cloudinary.com/dscnitrourkela/image/upload/v1755710454/hacknitr/cd0lyrhdlzfrevhbgluk.png",
+    "source": [
+      "src\\config\\marginals\\index.ts"
+    ]
+  },
+  "image_25.png": {
+    "url": "https://res.cloudinary.com/dscnitrourkela/image/upload/v1756042800/hacknitr/vgciny30li62ruv27m0d.png",
+    "source": [
+      "src\\config\\prizes\\index.ts"
+    ]
+  },
+  "image_26.png": {
+    "url": "https://res.cloudinary.com/dscnitrourkela/image/upload/v1756042800/hacknitr/vrx5o5hdtvy1hqgz6dds.png",
+    "source": [
+      "src\\config\\prizes\\index.ts"
+    ]
+  },
+  "image_27.png": {
+    "url": "https://res.cloudinary.com/dscnitrourkela/image/upload/v1756052111/hacknitr/ct8dpoxnd7wg8ligyzs0.png",
+    "source": [
+      "src\\config\\prizes\\index.ts"
+    ]
+  },
+  "image_28.png": {
+    "url": "https://res.cloudinary.com/dscnitrourkela/image/upload/v1756052950/hacknitr/ohoazbugjnrrcvm0bmzm.png",
+    "source": [
+      "src\\config\\prizes\\index.ts"
+    ]
+  },
+  "image_29.png": {
+    "url": "https://res.cloudinary.com/dscnitrourkela/image/upload/v1756149378/project-huckleberry/bsju38b1aiervwxbqxnw.png",
+    "source": [
+      "src\\config\\testimonials\\index.ts"
+    ]
+  },
+  "image_30.png": {
+    "url": "https://res.cloudinary.com/dscnitrourkela/image/upload/v1756245870/hacknitr/o31lzgdhnrkyvfbwwg33.png",
+    "source": [
+      "src\\app\\globals.css"
+    ]
+  },
+  "image_31.jpg": {
+    "url": "https://res.cloudinary.com/dscnitrourkela/image/upload/v1756325955/hacknitr/bj1j3roiopyr95dspizq.jpg",
+    "source": [
+      "src\\config\\testimonials\\index.ts"
+    ]
+  },
+  "image_32.jpg": {
+    "url": "https://res.cloudinary.com/dscnitrourkela/image/upload/v1756326007/hacknitr/nd8wpenegy73yapip03s.jpg",
+    "source": [
+      "src\\config\\testimonials\\index.ts"
+    ]
+  },
+  "image_33.jpg": {
+    "url": "https://res.cloudinary.com/dscnitrourkela/image/upload/v1756326028/hacknitr/otdamfkqfpaar6fwbh1f.jpg",
+    "source": [
+      "src\\config\\testimonials\\index.ts"
+    ]
+  },
+  "image_34.jpg": {
+    "url": "https://res.cloudinary.com/dscnitrourkela/image/upload/v1756326067/hacknitr/r5ozi4og2pbj2gdcr1w6.jpg",
+    "source": [
+      "src\\config\\testimonials\\index.ts"
+    ]
+  },
+  "image_35.jpg": {
+    "url": "https://res.cloudinary.com/dscnitrourkela/image/upload/v1756326094/hacknitr/jcaeyorourckv6grzlt6.jpg",
+    "source": [
+      "src\\config\\testimonials\\index.ts"
+    ]
+  },
+  "image_36.png": {
+    "url": "https://res.cloudinary.com/dscnitrourkela/image/upload/v1756492590/hacknitr/vz3clnalybbv5lheqcq3.png",
+    "source": [
+      "src\\config\\sponsors\\index.ts"
+    ]
+  },
+  "image_37.png": {
+    "url": "https://res.cloudinary.com/dscnitrourkela/image/upload/v1756492967/hacknitr/j4qzzcc1frw6zyzanods.png",
+    "source": [
+      "src\\config\\sponsors\\index.ts"
+    ]
+  },
+  "image_38.jpg": {
+    "url": "https://res.cloudinary.com/dscnitrourkela/image/upload/v1756503766/hacknitr/votzcvbcbnnwbomrzjwy.jpg",
+    "source": [
+      "src\\config\\gallery\\parallax.ts"
+    ]
+  },
+  "image_39.png": {
+    "url": "https://res.cloudinary.com/dscnitrourkela/image/upload/v1756504086/hacknitr/inpvcemympebubnkrtyf.png",
+    "source": [
+      "src\\config\\stats\\index.ts"
+    ]
+  },
+  "image_40.png": {
+    "url": "https://res.cloudinary.com/dscnitrourkela/image/upload/v1756504223/hacknitr/qswpaemtccarskbybvzn.png",
+    "source": [
+      "src\\config\\stats\\index.ts"
+    ]
+  },
+  "image_41.jpg": {
+    "url": "https://res.cloudinary.com/dscnitrourkela/image/upload/v1756504235/hacknitr/isa8wofmaes67aqint3s.jpg",
+    "source": [
+      "src\\config\\gallery\\parallax.ts",
+      "src\\config\\gallery\\parallax.ts"
+    ]
+  },
+  "image_42.jpg": {
+    "url": "https://res.cloudinary.com/dscnitrourkela/image/upload/v1756504240/hacknitr/yqocicf83kuzeunecyfi.jpg",
+    "source": [
+      "src\\config\\gallery\\parallax.ts"
+    ]
+  },
+  "image_43.jpg": {
+    "url": "https://res.cloudinary.com/dscnitrourkela/image/upload/v1756504244/hacknitr/p4uwmbsw3kxd6vheecfj.jpg",
+    "source": [
+      "src\\config\\gallery\\parallax.ts",
+      "src\\config\\gallery\\parallax.ts"
+    ]
+  },
+  "image_44.jpg": {
+    "url": "https://res.cloudinary.com/dscnitrourkela/image/upload/v1756504248/hacknitr/vqpq74zx0stkox9ncu9p.jpg",
+    "source": [
+      "src\\config\\gallery\\parallax.ts"
+    ]
+  },
+  "image_45.png": {
+    "url": "https://res.cloudinary.com/dscnitrourkela/image/upload/v1756504932/hacknitr/xpzzkjkg0wllqk02ivek.png",
+    "source": [
+      "src\\config\\stats\\index.ts"
+    ]
+  },
+  "image_46.png": {
+    "url": "https://res.cloudinary.com/dscnitrourkela/image/upload/v1756584254/hacknitr/ba7wbkcwr2ukb9lk8snm.png",
+    "source": [
+      "src\\config\\marginals\\index.ts"
+    ]
+  },
+  "image_47.jpg": {
+    "url": "https://res.cloudinary.com/dscnitrourkela/image/upload/v1756934429/hacknitr/r5rwzybu8b8pkhno8qxr_cd9294.jpg",
+    "source": [
+      "src\\config\\gallery\\parallax.ts"
+    ]
+  },
+  "image_48.png`": {
+    "url": "https://res.cloudinary.com/dscnitrourkela/image/upload/v1757017466/hacknitr/wyuptnnmcfwij6afvoqz.png`",
+    "source": [
+      "src\\config\\hero\\clouds.ts"
+    ]
+  },
+  "image_49.png": {
+    "url": "https://res.cloudinary.com/dscnitrourkela/image/upload/v1757017634/hacknitr/a4zolvvzugutkpbhbos4.png",
+    "source": [
+      "src\\config\\hero\\clouds.ts"
+    ]
+  },
+  "image_50.svg": {
+    "url": "https://res.cloudinary.com/dscnitrourkela/image/upload/v1761849168/hacknitr/dvujapeludctbgvzvxtb.svg",
+    "source": [
+      "src\\config\\sponsors\\index.ts"
+    ]
+  },
+  "image_51.png": {
+    "url": "https://res.cloudinary.com/dscnitrourkela/image/upload/v1765024871/hacknitr/gtnkr7mp7ug7x28a54at.png",
+    "source": [
+      "src\\config\\sponsors\\index.ts"
+    ]
+  },
+  "image_52.svg": {
+    "url": "https://res.cloudinary.com/dscnitrourkela/image/upload/v1766597974/hacknitr/a0mxv8dm0e3cjsdvmyxl.svg",
+    "source": [
+      "src\\config\\sponsors\\index.ts"
+    ]
+  },
+  "image_53.svg": {
+    "url": "https://res.cloudinary.com/du5qoczcn/image/upload/v1755931373/Line_3_e44kf3.svg",
+    "source": [
+      "src\\config\\timeline\\index.ts"
+    ]
+  },
+  "image_54.svg": {
+    "url": "https://res.cloudinary.com/du5qoczcn/image/upload/v1756218415/image_2724_wexjew.svg",
+    "source": [
+      "src\\config\\timeline\\index.ts"
+    ]
+  },
+  "image_55.svg": {
+    "url": "https://res.cloudinary.com/du5qoczcn/image/upload/v1756233158/image_2716_ifvv6o.svg",
+    "source": [
+      "src\\config\\timeline\\index.ts"
+    ]
+  }
+}
