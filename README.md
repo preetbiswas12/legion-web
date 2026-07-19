@@ -182,35 +182,7 @@ Your appreciation makes us grow and glow up. ⭐
 [code-of-conduct]: ./CODE_OF_CONDUCT.md
 [contributing-guidelines]: ./CONTRIBUTING.md
 
-## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://ayussh.vercel.app/"><img src="https://avatars.githubusercontent.com/u/135319056?v=4?s=100" width="100px;" alt="Ayush"/><br /><sub><b>Ayush</b></sub></a><br /><a href="https://github.com/legion-cli/legion-cli/commits?author=ayussh-2" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/mshalom27"><img src="https://avatars.githubusercontent.com/u/179662248?v=4?s=100" width="100px;" alt="Shalom Mendonca"/><br /><sub><b>Shalom Mendonca</b></sub></a><br /><a href="https://github.com/legion-cli/legion-cli/commits?author=mshalom27" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Amphere1"><img src="https://avatars.githubusercontent.com/u/185503757?v=4?s=100" width="100px;" alt="Krishnakant Sahu"/><br /><sub><b>Krishnakant Sahu</b></sub></a><br /><a href="https://github.com/legion-cli/legion-cli/commits?author=Amphere1" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://pratyush-portfolio.vercel.app/"><img src="https://avatars.githubusercontent.com/u/175925778?v=4?s=100" width="100px;" alt="Ptrock2005"/><br /><sub><b>Ptrock2005</b></sub></a><br /><a href="https://github.com/legion-cli/legion-cli/commits?author=PratyushPanda2005" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/AshutoshMishra1615"><img src="https://avatars.githubusercontent.com/u/135343059?v=4?s=100" width="100px;" alt="AshutoshMishra1615"/><br /><sub><b>AshutoshMishra1615</b></sub></a><br /><a href="https://github.com/legion-cli/legion-cli/commits?author=AshutoshMishra1615" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/AishwaryJhunjhunwala"><img src="https://avatars.githubusercontent.com/u/195850165?v=4?s=100" width="100px;" alt="AishwaryJhunjhunwala"/><br /><sub><b>AishwaryJhunjhunwala</b></sub></a><br /><a href="https://github.com/legion-cli/legion-cli/commits?author=AishwaryJhunjhunwala" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/HIMANSHU6001"><img src="https://avatars.githubusercontent.com/u/92459082?v=4?s=100" width="100px;" alt="Himanshu Kaushik"/><br /><sub><b>Himanshu Kaushik</b></sub></a><br /><a href="https://github.com/legion-cli/legion-cli/commits?author=HIMANSHU6001" title="Code">💻</a></td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/devsw-prayas"><img src="https://avatars.githubusercontent.com/u/64429051?v=4?s=100" width="100px;" alt="DevSw"/><br /><sub><b>DevSw</b></sub></a><br /><a href="https://github.com/legion-cli/legion-cli/commits?author=devsw-prayas" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/raaz-tilak"><img src="https://avatars.githubusercontent.com/u/221827602?v=4?s=100" width="100px;" alt="raaz-tilak"/><br /><sub><b>raaz-tilak</b></sub></a><br /><a href="https://github.com/legion-cli/legion-cli/commits?author=raaz-tilak" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/srikant3691"><img src="https://avatars.githubusercontent.com/u/180011583?v=4?s=100" width="100px;" alt="Srikant Panigrahy"/><br /><sub><b>Srikant Panigrahy</b></sub></a><br /><a href="https://github.com/legion-cli/legion-cli/commits?author=srikant3691" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://portfolioscyy.netlify.app/playground"><img src="https://avatars.githubusercontent.com/u/180634057?v=4?s=100" width="100px;" alt="Ayan"/><br /><sub><b>Ayan</b></sub></a><br /><a href="https://github.com/legion-cli/legion-cli/commits?author=AYANscyy2" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Anwesha28S"><img src="https://avatars.githubusercontent.com/u/196036520?v=4?s=100" width="100px;" alt="Anwesha.28"/><br /><sub><b>Anwesha.28</b></sub></a><br /><a href="https://github.com/legion-cli/legion-cli/commits?author=Anwesha28S" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/SiddhiB-05"><img src="https://avatars.githubusercontent.com/u/216081167?v=4?s=100" width="100px;" alt="SiddhiB-05"/><br /><sub><b>SiddhiB-05</b></sub></a><br /><a href="https://github.com/legion-cli/legion-cli/commits?author=SiddhiB-05" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Krish-2118"><img src="https://avatars.githubusercontent.com/u/195782553?v=4?s=100" width="100px;" alt="Krish-2118"/><br /><sub><b>Krish-2118</b></sub></a><br /><a href="https://github.com/legion-cli/legion-cli/commits?author=Krish-2118" title="Code">💻</a></td>
-    </tr>
-  </tbody>
-</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
