@@ -11,7 +11,7 @@ export const testimonialInfo = [
   {
     id: 1,
     title: 'Alex Chen',
-    img: 'https://res.cloudinary.com/dscnitrourkela/image/upload/v1756326028/hacknitr/otdamfkqfpaar6fwbh1f.jpg',
+    img: 'https://i.pravatar.cc/150?img=11',
     subtitle: '@alexchen_dev',
     content:
       'Legion CLI completely changed my workflow. The /connect command set up my entire AI stack in seconds. No more config hell.',
@@ -22,7 +22,7 @@ export const testimonialInfo = [
   {
     id: 2,
     title: 'Sarah Kim',
-    img: 'https://res.cloudinary.com/dscnitrourkela/image/upload/v1756325955/hacknitr/bj1j3roiopyr95dspizq.jpg',
+    img: 'https://i.pravatar.cc/150?img=5',
     subtitle: '@sarahk Codes',
     content:
       "Finally, a CLI that doesn't make me read 50 pages of docs. Installed, connected, and running GPT-4 in under 2 minutes. Legion CLI is the real deal.",
@@ -33,7 +33,7 @@ export const testimonialInfo = [
   {
     id: 3,
     title: 'Marcus Johnson',
-    img: 'https://res.cloudinary.com/dscnitrourkela/image/upload/v1756326007/hacknitr/nd8wpenegy73yapip03s.jpg',
+    img: 'https://i.pravatar.cc/150?img=12',
     subtitle: '@mjohnson_dev',
     content:
       'The 4000+ skills in Legion CLI are insane. It integrated with my React, Python, and Go projects without any issues. Game changer.',
@@ -44,7 +44,7 @@ export const testimonialInfo = [
   {
     id: 4,
     title: 'Priya Patel',
-    img: 'https://res.cloudinary.com/dscnitrourkela/image/upload/v1756326028/hacknitr/otdamfkqfpaar6fwbh1f.jpg',
+    img: 'https://i.pravatar.cc/150?img=9',
     subtitle: '@priyabuilds',
     content:
       'Switched from three different AI tools to just Legion CLI. The provider switching with /connect is chef\'s kiss. One tool to rule them all.',
@@ -55,7 +55,7 @@ export const testimonialInfo = [
   {
     id: 5,
     title: 'Jordan Lee',
-    img: 'https://res.cloudinary.com/dscnitrourkela/image/upload/v1756326067/hacknitr/r5ozi4og2pbj2gdcr1w6.jpg',
+    img: 'https://i.pravatar.cc/150?img=33',
     subtitle: '@jordanl Codes',
     content:
       'Legion CLI + Claude is my new power combo. The terminal integration feels native, not bolted on. This is how AI tools should work.',
@@ -66,7 +66,7 @@ export const testimonialInfo = [
   {
     id: 6,
     title: 'Emma Rodriguez',
-    img: 'https://res.cloudinary.com/dscnitrourkela/image/upload/v1756326094/hacknitr/jcaeyorourckv6grzlt6.jpg',
+    img: 'https://i.pravatar.cc/150?img=25',
     subtitle: '@emmarodz',
     content:
       'From zero to production-ready AI setup in 5 minutes. Legion CLI handles the boilerplate so I can focus on building. 10/10 recommend.',

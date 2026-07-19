@@ -9,6 +9,9 @@ const nextConfig: NextConfig = {
       {
         hostname: 'pbs.twimg.com',
       },
+      {
+        hostname: 'i.pravatar.cc',
+      },
     ],
   },
 };
