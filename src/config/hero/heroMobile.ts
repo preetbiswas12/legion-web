@@ -93,7 +93,7 @@ export const textElements = [
   },
   {
     id: 'te3',
-    component: 'v2.0.5',
+    component: 'v2.1.5',
     style: { top: '150%', left: '53.5%' },
     className: 'font-sketch-block font-normal text-[17vw]',
     type: 'H1',
