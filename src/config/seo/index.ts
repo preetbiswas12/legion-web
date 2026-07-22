@@ -1,12 +1,9 @@
-const images = [
-  'https://legioncli.com/logo.png',
-  'https://res.cloudinary.com/dscnitrourkela/image/upload/v1752326964/hacknitr/zblorl5fuiaulxica9cu.png',
-];
+const images = ['https://legioncli.vercel.app/logo.png'];
 const description =
   'Legion CLI is a powerful developer-first command-line tool designed to streamline your development workflow. Build faster, deploy smarter, and ship with confidence.';
 
 const title = { default: 'Legion CLI', template: `%s | Legion CLI` };
-const url = 'https://legioncli.com/';
+const url = 'https://legioncli.vercel.app/';
 const metadataBase = new URL(url);
 
 export const metaDataObject = {

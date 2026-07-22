@@ -79,7 +79,7 @@ export const textElements = [
     type: 'Display',
   },
   {
-    component: 'v1.0.3',
+    component: 'v2.0.5',
     style: { top: '62%', left: '74.7%' },
     className: 'font-sketch-block font-normal',
     type: 'H1',
