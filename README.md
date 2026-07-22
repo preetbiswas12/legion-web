@@ -1,15 +1,3 @@
-[![Starware](https://img.shields.io/badge/Starware-⭐-black?labelColor=f9b00d)](https://github.com/zepfietje/starware)
-
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-
 <br />
 <p align="center">
   <a href="https://github.com/legion-cli/legion-cli">
@@ -155,10 +143,6 @@ yarn build
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Legion CLI
-
-[![Legion CLI][legion-cli-badge]](https://github.com/legion-cli/legion-cli)
-
 ## Starware
 
 legion-cli/legion-cli is Starware.
@@ -168,17 +152,6 @@ Your appreciation makes us grow and glow up. ⭐
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/legion-cli/legion-cli?style=for-the-badge
-[contributors-url]: https://github.com/legion-cli/legion-cli/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/legion-cli/legion-cli?style=for-the-badge
-[forks-url]: https://github.com/legion-cli/legion-cli/network/members
-[stars-shield]: https://img.shields.io/github/stars/legion-cli/legion-cli?style=for-the-badge
-[stars-url]: https://github.com/legion-cli/legion-cli/stargazers
-[issues-shield]: https://img.shields.io/github/issues/legion-cli/legion-cli?style=for-the-badge
-[issues-url]: https://github.com/legion-cli/legion-cli/issues
-[license-shield]: https://img.shields.io/github/license/legion-cli/legion-cli?style=for-the-badge
-[license-url]: ./LICENSE
-[legion-cli-badge]: public/repoCover.png
 [code-of-conduct]: ./CODE_OF_CONDUCT.md
 [contributing-guidelines]: ./CONTRIBUTING.md
 
