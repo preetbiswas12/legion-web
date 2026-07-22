@@ -50,7 +50,7 @@
       </ul>
     </li>
     <li><a href="#license">License</a></li>
-    <li><a href="#dsc-nit-rourkela">DSC NIT Rourkela</a></li>
+    <li><a href="#preet-biswas">Preet Biswas</a></li>
     <li><a href="#starware">Starware</a></li>
   </ol>
 </details>
